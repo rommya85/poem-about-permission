@@ -6,12 +6,11 @@ to /output/entry.txt. No network, no input, deterministic.
 """
 import os
 
-POEM = """Can I stay the night? I asked.
-She said nothing. She folded
-the blanket back, left the lamp
-burning low, and set my shoes
-by the door, toes out, like
-they belonged there."""
+POEM = """Can I come home? I asked.
+The porch light was already on.
+She opened the door before I knocked,
+set my old plate on the table,
+and said, your room is still yours."""
 
 def main() -> None:
     # The bounty requires 1 to 280 characters, counted as Unicode code points.
