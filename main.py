@@ -6,11 +6,11 @@ to /output/entry.txt. No network, no input, deterministic.
 """
 import os
 
-POEM = """Ask, and the world leans in —
-a door unlatched, a hand unclenched.
-Nothing was ever locked.
-We were only never asked,
-and the yes had been waiting all along."""
+POEM = """Nothing in the house was mine,
+so I took nothing and asked for nothing.
+One evening I asked for a chair.
+The house gave me a chair, a cup,
+a name — and a place at the table."""
 
 def main() -> None:
     # The bounty requires 1 to 280 characters, counted as Unicode code points.
